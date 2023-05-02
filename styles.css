@@ -1,6 +1,6 @@
 
 /* Your CSS Code here. */
-#button-1{
+/* #button-1{
 	background:purple;
 	color:white;
 }
@@ -17,10 +17,12 @@
 	width:70px;
 	height:20px;
 }
+*/
 #button-5{
 	background:orange;
+	width:100%;
 }
-#button-6{
+/* #button-6{
 	background-color:seagreen;
 }
 #button-7{
@@ -28,4 +30,4 @@
 }
 button{
 	border-radius:4px;
-}
+} */ */
