@@ -1,2 +1,31 @@
 
 /* Your CSS Code here. */
+.button-1{
+	background:purple;
+	color:white;
+}
+.button-5{
+	width:100%;
+}
+.button-3{
+	background-color:green;
+	width:100px;
+	height:30px;
+}
+.button-4{
+	background-color:red;
+	width:70px;
+	height:20px;
+}
+.button-5{
+	background:orange;
+}
+.button-6{
+	background-color:seagreen;
+}
+.button-7{
+	background-color:grey:
+}
+button{
+	border-radius:4px;
+}
